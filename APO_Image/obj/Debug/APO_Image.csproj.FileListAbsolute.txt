@@ -1,0 +1,14 @@
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\x86\leptonica-1.80.0.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\x86\tesseract41.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\x64\leptonica-1.80.0.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\x64\tesseract41.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\APO_Image.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\APO_Image.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\APO_Image.pdb
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\bin\Debug\Tesseract.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.Form1.resources
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_Image\APO_Image\obj\Debug\APO_Image.pdb
